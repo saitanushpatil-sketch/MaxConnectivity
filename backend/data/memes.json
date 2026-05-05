@@ -1,0 +1,302 @@
+[
+  {
+    "id": "drake",
+    "name": "Drake Approves",
+    "url": "https://i.imgflip.com/30b1gx.jpg",
+    "tags": ["approve", "yes", "prefer", "better", "drake"],
+    "keywords": ["approve", "yes", "prefer", "better", "choose", "like", "want", "drake", "pointing"],
+    "category": "reaction",
+    "usageCount": 500,
+    "trending": true
+  },
+  {
+    "id": "distracted-boyfriend",
+    "name": "Distracted Boyfriend",
+    "url": "https://i.imgflip.com/1ur9b0.jpg",
+    "tags": ["distracted", "cheating", "looking", "attention"],
+    "keywords": ["distracted", "cheating", "attention", "interested", "looking", "girlfriend", "boyfriend", "instead"],
+    "category": "relatable",
+    "usageCount": 480,
+    "trending": true
+  },
+  {
+    "id": "this-is-fine",
+    "name": "This Is Fine",
+    "url": "https://i.imgflip.com/1qhu3r.jpg",
+    "tags": ["fine", "okay", "disaster", "chaos", "fire", "calm"],
+    "keywords": ["fine", "okay", "disaster", "chaos", "fire", "calm", "burn", "everything", "ignore"],
+    "category": "reaction",
+    "usageCount": 450,
+    "trending": true
+  },
+  {
+    "id": "surprised-pikachu",
+    "name": "Surprised Pikachu",
+    "url": "https://i.imgflip.com/2kbn1e.jpg",
+    "tags": ["surprised", "shocked", "pikachu", "wow", "unexpected"],
+    "keywords": ["surprised", "shocked", "pikachu", "wow", "unexpected", "gasp", "omg", "what", "really"],
+    "category": "reaction",
+    "usageCount": 520,
+    "trending": true
+  },
+  {
+    "id": "crying-laughing",
+    "name": "Crying Laughing Cat",
+    "url": "https://i.imgflip.com/4t0m5.jpg",
+    "tags": ["laugh", "lol", "funny", "crying", "cat", "lmao"],
+    "keywords": ["laugh", "lol", "funny", "crying", "cat", "lmao", "hilarious", "haha", "rofl", "dead"],
+    "category": "humor",
+    "usageCount": 430,
+    "trending": true
+  },
+  {
+    "id": "stonks",
+    "name": "Stonks",
+    "url": "https://i.imgflip.com/3o_c9t.jpg",
+    "tags": ["stonks", "stocks", "money", "profit", "win", "success"],
+    "keywords": ["stonks", "stocks", "money", "profit", "win", "success", "gains", "investment", "rich"],
+    "category": "humor",
+    "usageCount": 390,
+    "trending": false
+  },
+  {
+    "id": "not-stonks",
+    "name": "Not Stonks",
+    "url": "https://i.imgflip.com/43a45p.jpg",
+    "tags": ["loss", "fail", "bad", "not stonks", "down"],
+    "keywords": ["loss", "fail", "bad", "not stonks", "down", "broke", "negative", "disaster", "flop"],
+    "category": "humor",
+    "usageCount": 320,
+    "trending": false
+  },
+  {
+    "id": "two-buttons",
+    "name": "Two Buttons",
+    "url": "https://i.imgflip.com/1g8my4.jpg",
+    "tags": ["choice", "decision", "dilemma", "sweating", "choose"],
+    "keywords": ["choice", "decision", "dilemma", "sweating", "choose", "both", "options", "hard", "difficult"],
+    "category": "relatable",
+    "usageCount": 360,
+    "trending": false
+  },
+  {
+    "id": "expanding-brain",
+    "name": "Expanding Brain",
+    "url": "https://i.imgflip.com/1jwhww.jpg",
+    "tags": ["smart", "genius", "brain", "galaxy", "mega", "next level"],
+    "keywords": ["smart", "genius", "brain", "galaxy", "intelligent", "evolve", "level up", "enlightened", "mega big brain"],
+    "category": "humor",
+    "usageCount": 410,
+    "trending": true
+  },
+  {
+    "id": "change-my-mind",
+    "name": "Change My Mind",
+    "url": "https://i.imgflip.com/24y43o.jpg",
+    "tags": ["change my mind", "opinion", "debate", "unpopular", "prove wrong"],
+    "keywords": ["change my mind", "opinion", "debate", "unpopular", "prove wrong", "fight me", "controversial"],
+    "category": "humor",
+    "usageCount": 280,
+    "trending": false
+  },
+  {
+    "id": "uno-reverse",
+    "name": "UNO Reverse Card",
+    "url": "https://i.imgflip.com/3lmzyx.jpg",
+    "tags": ["reverse", "uno", "back at you", "nope", "return"],
+    "keywords": ["reverse", "uno", "back at you", "nope", "return", "no u", "karma", "backfire"],
+    "category": "savage",
+    "usageCount": 350,
+    "trending": false
+  },
+  {
+    "id": "big-brain",
+    "name": "Big Brain Time",
+    "url": "https://i.imgflip.com/2gnoux.jpg",
+    "tags": ["big brain", "smart", "genius", "galaxy brain", "200 iq"],
+    "keywords": ["big brain", "smart", "genius", "galaxy brain", "200 iq", "intellectual", "sigma", "chad move"],
+    "category": "humor",
+    "usageCount": 300,
+    "trending": false
+  },
+  {
+    "id": "bruh",
+    "name": "Bruh Moment",
+    "url": "https://i.imgflip.com/39t1o.jpg",
+    "tags": ["bruh", "really", "seriously", "smh", "disappointed"],
+    "keywords": ["bruh", "really", "seriously", "smh", "disappointed", "bro", "facepalm", "come on", "dude"],
+    "category": "reaction",
+    "usageCount": 470,
+    "trending": true
+  },
+  {
+    "id": "wtf",
+    "name": "WTF Face",
+    "url": "https://i.imgflip.com/1jvt1.jpg",
+    "tags": ["wtf", "what", "confused", "shock", "disbelief"],
+    "keywords": ["wtf", "what", "confused", "shock", "disbelief", "no way", "how", "why", "tf", "bro wtf"],
+    "category": "reaction",
+    "usageCount": 490,
+    "trending": true
+  },
+  {
+    "id": "nope",
+    "name": "Nope",
+    "url": "https://i.imgflip.com/3oevdk.jpg",
+    "tags": ["nope", "no", "refuse", "deny", "not happening"],
+    "keywords": ["nope", "no", "refuse", "deny", "not happening", "never", "absolutely not", "hard no", "forget it"],
+    "category": "reaction",
+    "usageCount": 340,
+    "trending": false
+  },
+  {
+    "id": "gg",
+    "name": "GG Easy",
+    "url": "https://i.imgflip.com/2wifvo.jpg",
+    "tags": ["gg", "easy", "win", "victory", "gaming", "gg ez"],
+    "keywords": ["gg", "easy", "win", "victory", "gaming", "gg ez", "ez clap", "got em", "rekt", "outplayed"],
+    "category": "gaming",
+    "usageCount": 260,
+    "trending": false
+  },
+  {
+    "id": "college-sleeping",
+    "name": "3AM College Vibes",
+    "url": "https://i.imgflip.com/2hgfw.jpg",
+    "tags": ["tired", "exhausted", "3am", "sleep", "college", "student"],
+    "keywords": ["tired", "exhausted", "3am", "sleep", "college", "student", "no sleep", "all nighter", "finals", "exam"],
+    "category": "college",
+    "usageCount": 380,
+    "trending": true
+  },
+  {
+    "id": "procrastination",
+    "name": "Procrastination Master",
+    "url": "https://i.imgflip.com/26jxvz.jpg",
+    "tags": ["procrastinate", "lazy", "later", "tomorrow", "deadline"],
+    "keywords": ["procrastinate", "lazy", "later", "tomorrow", "deadline", "assignment", "homework", "due", "panic"],
+    "category": "college",
+    "usageCount": 420,
+    "trending": true
+  },
+  {
+    "id": "monday-face",
+    "name": "Monday Face",
+    "url": "https://i.imgflip.com/k96bj.jpg",
+    "tags": ["monday", "work", "morning", "hate", "suffering"],
+    "keywords": ["monday", "work", "morning", "hate", "suffering", "meeting", "office", "alarm", "8am", "why"],
+    "category": "work",
+    "usageCount": 310,
+    "trending": false
+  },
+  {
+    "id": "wholesome-dog",
+    "name": "Good Boy",
+    "url": "https://i.imgflip.com/5c7lwq.jpg",
+    "tags": ["wholesome", "good", "cute", "aww", "pure", "dog"],
+    "keywords": ["wholesome", "good", "cute", "aww", "pure", "dog", "sweet", "nice", "love", "heart", "happy"],
+    "category": "wholesome",
+    "usageCount": 290,
+    "trending": false
+  },
+  {
+    "id": "hi-hello",
+    "name": "Hello There",
+    "url": "https://i.imgflip.com/irdve.jpg",
+    "tags": ["hello", "hi", "greeting", "hey", "general kenobi"],
+    "keywords": ["hello", "hi", "greeting", "hey", "general kenobi", "sup", "yo", "what's up", "hiya"],
+    "category": "greeting",
+    "usageCount": 330,
+    "trending": false
+  },
+  {
+    "id": "bye-felicia",
+    "name": "Bye Felicia",
+    "url": "https://i.imgflip.com/18y9p1.jpg",
+    "tags": ["bye", "goodbye", "leave", "dismiss", "see ya"],
+    "keywords": ["bye", "goodbye", "leave", "dismiss", "see ya", "cya", "later", "peace", "gone"],
+    "category": "savage",
+    "usageCount": 270,
+    "trending": false
+  },
+  {
+    "id": "sad-cat",
+    "name": "Sad Cat Crying",
+    "url": "https://i.imgflip.com/4acd7j.jpg",
+    "tags": ["sad", "cry", "upset", "tears", "heartbreak", "depressed"],
+    "keywords": ["sad", "cry", "upset", "tears", "heartbreak", "depressed", "pain", "hurt", "feels", "oof", "rip"],
+    "category": "emotion",
+    "usageCount": 400,
+    "trending": true
+  },
+  {
+    "id": "happy-dance",
+    "name": "Happy Dance",
+    "url": "https://i.imgflip.com/2xhj8j.jpg",
+    "tags": ["happy", "dance", "celebrate", "excited", "yay", "lets go"],
+    "keywords": ["happy", "dance", "celebrate", "excited", "yay", "lets go", "hype", "poggers", "fire", "lit"],
+    "category": "emotion",
+    "usageCount": 360,
+    "trending": false
+  },
+  {
+    "id": "angry-face",
+    "name": "Rage Mode",
+    "url": "https://i.imgflip.com/30b5.jpg",
+    "tags": ["angry", "rage", "mad", "furious", "rage quit"],
+    "keywords": ["angry", "rage", "mad", "furious", "rage quit", "triggered", "i'm done", "tf", "screw this"],
+    "category": "emotion",
+    "usageCount": 380,
+    "trending": false
+  },
+  {
+    "id": "spongebob-mocking",
+    "name": "Mocking Spongebob",
+    "url": "https://i.imgflip.com/1otk96.jpg",
+    "tags": ["mock", "sarcasm", "spongebob", "making fun", "copying"],
+    "keywords": ["mock", "sarcasm", "spongebob", "making fun", "copying", "mimic", "ridicule", "funny copy", "stupid"],
+    "category": "savage",
+    "usageCount": 440,
+    "trending": true
+  },
+  {
+    "id": "big-pp",
+    "name": "Big PP Energy",
+    "url": "https://i.imgflip.com/4fhsge.jpg",
+    "tags": ["chad", "sigma", "alpha", "big energy", "confidence"],
+    "keywords": ["chad", "sigma", "alpha", "big energy", "confidence", "boss", "legend", "goat", "based", "ngl"],
+    "category": "humor",
+    "usageCount": 370,
+    "trending": false
+  },
+  {
+    "id": "shut-and-take-money",
+    "name": "Shut Up And Take My Money",
+    "url": "https://i.imgflip.com/3sjw.jpg",
+    "tags": ["take my money", "want", "buy", "shut up", "need", "fry"],
+    "keywords": ["take my money", "want", "buy", "shut up", "need", "fry", "sell", "deal", "must have", "gimme"],
+    "category": "reaction",
+    "usageCount": 340,
+    "trending": false
+  },
+  {
+    "id": "it-crowd-fire",
+    "name": "Office On Fire",
+    "url": "https://i.imgflip.com/16g1ql.jpg",
+    "tags": ["fire", "burn", "disaster", "chaos", "office", "panic"],
+    "keywords": ["fire", "burn", "disaster", "chaos", "office", "panic", "help", "emergency", "crisis", "wtf"],
+    "category": "work",
+    "usageCount": 250,
+    "trending": false
+  },
+  {
+    "id": "roll-safe",
+    "name": "Roll Safe Think",
+    "url": "https://i.imgflip.com/1h7in3.jpg",
+    "tags": ["smart", "think", "logic", "strategy", "big brain"],
+    "keywords": ["smart", "think", "logic", "strategy", "big brain", "genius", "loophole", "technically", "clever"],
+    "category": "humor",
+    "usageCount": 390,
+    "trending": false
+  }
+]
